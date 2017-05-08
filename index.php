@@ -81,7 +81,13 @@
 
 		<!-- FOOTER -->
 		<footer>
-			this is a footer
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						this is a footer
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
