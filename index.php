@@ -36,19 +36,52 @@
 		<title>Bootstrap Demo</title>
 	</head>
 	<body>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4"> <!-- 4/12 container -->
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</div>
-				<div class="col-md-4"> <!-- 4/12 container -->
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</div>
-				<div class="col-md-4"> <!-- 4/12 container -->
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</div>
-			</div>
+		<div class="sfooter-content">
 
-		</div>
+			<!-- HEADER -->
+			<header>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-xs-12">
+							<h2>Bootstrap Demo</h2>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<!-- BEGIN MAIN PAGE CONTENT -->
+			<main>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							col-md-6
+						</div>
+						<div class="col-md-6">
+							col-md-6
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+					</div>
+
+				</div>
+			</main>
+		</div><!-- /.sfooter-content-->
+
+		<!-- FOOTER -->
+		<footer>
+			this is a footer
+		</footer>
 	</body>
 </html>
