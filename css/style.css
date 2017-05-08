@@ -1,0 +1,9 @@
+h2 {
+	font-family:'Lobster', cursive;
+}
+
+/* column colors */
+div[class*="col-"] {
+	background-color: yellow;
+	border: 1px solid black;
+}
