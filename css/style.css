@@ -26,3 +26,23 @@ body { width: 100X;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+/* HEADER STYLES */
+header {
+	background-color: aqua;
+	color: white;
+	padding: 2rem 0;
+}
+
+header h2 {
+	text-shadow: 2 px 2px 2px black;
+	margin-top: 0;
+}
+
+/* FOOTER STYLES */
+footer {
+	background-color: black;
+	padding: 2rem 0;
+	color: #aaa;
+	font-style: italic;
+}
