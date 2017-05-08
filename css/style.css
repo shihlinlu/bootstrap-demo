@@ -15,7 +15,7 @@ h2 {
 
 /* corrects IE min-height bug */
 html { display: flex;}
-body { width: 100X;}
+body { width: 100%;}
 
 .sfooter {
 	display: flex;
@@ -46,3 +46,18 @@ footer {
 	color: #aaa;
 	font-style: italic;
 }
+
+/* CONTENT AREA */
+main {
+	padding: 4rem 0;
+}
+
+.box {
+	background-color: #eee;
+	padding: 2rem;
+	border-radius: 1rem;
+	margin-bottom: 2rem;
+	border: 2px #ddd solid;
+	box-shadow: 2px 2px 0 rgba(0,0,0,0.2)
+}
+
